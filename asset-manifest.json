@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfile/static/css/main.57ed7be3.css",
-    "main.js": "/Portfile/static/js/main.250408b8.js",
+    "main.css": "/Portfile/static/css/main.1392bbef.css",
+    "main.js": "/Portfile/static/js/main.fe648115.js",
     "static/media/App IOHONE.PNG": "/Portfile/static/media/App IOHONE.e27ecc99af84763eeb88.PNG",
     "static/media/coffe.PNG": "/Portfile/static/media/coffe.e4e3ed137d82c7a2da3c.PNG",
     "static/media/Almas.PNG": "/Portfile/static/media/Almas.489826fa76ce737813e7.PNG",
@@ -19,11 +19,11 @@
     "static/media/js.jpg": "/Portfile/static/media/js.d37684aea3d32640b359.jpg",
     "static/media/css.png": "/Portfile/static/media/css.cbea6150e2917bd6f0f3.png",
     "index.html": "/Portfile/index.html",
-    "main.57ed7be3.css.map": "/Portfile/static/css/main.57ed7be3.css.map",
-    "main.250408b8.js.map": "/Portfile/static/js/main.250408b8.js.map"
+    "main.1392bbef.css.map": "/Portfile/static/css/main.1392bbef.css.map",
+    "main.fe648115.js.map": "/Portfile/static/js/main.fe648115.js.map"
   },
   "entrypoints": [
-    "static/css/main.57ed7be3.css",
-    "static/js/main.250408b8.js"
+    "static/css/main.1392bbef.css",
+    "static/js/main.fe648115.js"
   ]
 }
