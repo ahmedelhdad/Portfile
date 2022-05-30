@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfile/static/css/main.1392bbef.css",
-    "main.js": "/Portfile/static/js/main.fe648115.js",
+    "main.js": "/Portfile/static/js/main.df2ac62d.js",
     "static/media/App IOHONE.PNG": "/Portfile/static/media/App IOHONE.e27ecc99af84763eeb88.PNG",
     "static/media/coffe.PNG": "/Portfile/static/media/coffe.e4e3ed137d82c7a2da3c.PNG",
     "static/media/Almas.PNG": "/Portfile/static/media/Almas.489826fa76ce737813e7.PNG",
@@ -10,6 +10,7 @@
     "static/media/Elhdad.PNG": "/Portfile/static/media/Elhdad.0157e05df149c3a7646c.PNG",
     "static/media/1652826940274.jpg": "/Portfile/static/media/1652826940274.6df8c358f82cc72fb196.jpg",
     "static/media/tech.PNG": "/Portfile/static/media/tech.ef537d62d6e90baa577a.PNG",
+    "static/media/api.PNG": "/Portfile/static/media/api.6b6cad9fa56be36322e5.PNG",
     "static/media/react.png": "/Portfile/static/media/react.23fd0138effeef952d73.png",
     "static/media/bootstrap.png": "/Portfile/static/media/bootstrap.323492a55f3421bf0688.png",
     "static/media/c-plus-plus.png": "/Portfile/static/media/c-plus-plus.bac6af85fe3ff5796f13.png",
@@ -18,12 +19,13 @@
     "static/media/Bandi.PNG": "/Portfile/static/media/Bandi.d524d86b65e15d083b02.PNG",
     "static/media/js.jpg": "/Portfile/static/media/js.d37684aea3d32640b359.jpg",
     "static/media/css.png": "/Portfile/static/media/css.cbea6150e2917bd6f0f3.png",
+    "static/media/react2.PNG": "/Portfile/static/media/react2.e2a4eaaee6a0dfdab38b.PNG",
     "index.html": "/Portfile/index.html",
     "main.1392bbef.css.map": "/Portfile/static/css/main.1392bbef.css.map",
-    "main.fe648115.js.map": "/Portfile/static/js/main.fe648115.js.map"
+    "main.df2ac62d.js.map": "/Portfile/static/js/main.df2ac62d.js.map"
   },
   "entrypoints": [
     "static/css/main.1392bbef.css",
-    "static/js/main.fe648115.js"
+    "static/js/main.df2ac62d.js"
   ]
 }
