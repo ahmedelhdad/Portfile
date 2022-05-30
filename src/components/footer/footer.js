@@ -16,7 +16,7 @@ function Footer() {
         </a>
       </h1>
       <div className="social-links">
-        <a href="#https://www.instagram.com/ahmed_hdad11/?igshid=YmMyMTA2M2Y=">
+        <a href="https://www.instagram.com/ahmed_hdad11/?igshid=YmMyMTA2M2Y=">
           <BsInstagram className="social" />
         </a>
         <a href="https://www.facebook.com/ahmedelhadad.elhadad.5">

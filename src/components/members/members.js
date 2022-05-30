@@ -6,6 +6,9 @@ import imgFour from '../props/Bandi.PNG'
 import imgFiv from '../props/coffe.PNG'
 import imgSix from '../props/Specail.PNG'
 import imgSeven from '../props/tech.PNG'
+import imgEight from '../props/react2.PNG'
+import imgNine from '../props/api.PNG'
+
 
 const Members = () => {
 
@@ -55,7 +58,7 @@ const Members = () => {
       <div className="member four">
 
         <div className="member-img image ">
-        <img src={imgFour} alt=''/>
+        <img src={imgFour} alt='bootstrap one'/>
         <div className="overlay">
         <a href="https://ahmedelhdad.github.io/bootstrap-1/" className="contact-member">
            View
@@ -67,7 +70,7 @@ const Members = () => {
       <div className="member five">
 
         <div className="member-img image ">
-        <img src={imgFiv} alt=''/>
+        <img src={imgFiv} alt='bootstrap two'/>
         <div className="overlay">
         <a href="https://ahmedelhdad.github.io/bootstrap-2/" className="contact-member">
            View
@@ -79,7 +82,7 @@ const Members = () => {
       <div className="member six">
 
         <div className="member-img image ">
-        <img src={imgSix} alt=''/>
+        <img src={imgSix} alt='Add User'/>
         <div className="overlay">
         <a href="https://ahmedelhdad.github.io/JavaScript/" className="contact-member">
            View
@@ -89,11 +92,31 @@ const Members = () => {
       </div>
 
       <div className="member seven">
-
         <div className="member-img image ">
-        <img src={imgSeven} alt=''/>
+        <img src={imgSeven} alt='api'/>
         <div className="overlay">
-        <a href="../props/Project/Almas/html/template1.html" className="contact-member">
+        <a href="https://ahmedelhdad.github.io/tech/" className="contact-member">
+           View
+          </a>
+        </div>
+         </div>
+      </div>
+
+      <div className="member seven">
+        <div className="member-img image ">
+        <img src={imgEight} alt=''/>
+        <div className="overlay">
+        <a href="https://ahmedelhdad.github.io/React/" className="contact-member">
+           View
+          </a>
+        </div>
+         </div>
+      </div>
+      <div className="member seven">
+        <div className="member-img image ">
+        <img src={imgNine} alt=''/>
+        <div className="overlay">
+        <a href="https://ahmedelhdad.github.io/Api-React/" className="contact-member">
            View
           </a>
         </div>
