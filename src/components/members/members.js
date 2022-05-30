@@ -10,13 +10,6 @@ import imgSeven from '../props/tech.PNG'
 const Members = () => {
 
 
-  window.onscroll= function()
-  {
-    if(this.scroll >= 2200)
-    {
-      console.log('good')
-    }
-  }
   return (
     <div id="members" className="container members-container">
       <h1 className="member-txt">Projects</h1>
