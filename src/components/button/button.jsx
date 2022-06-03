@@ -1,6 +1,6 @@
 import React from "react";
 import "./button.css";
-import cv from '../props/Ahmed Elhdad.pdf.pdf'
+import cv from '../props/Ahmed Elhdad22.pdf'
 
 function Buttons() {
 

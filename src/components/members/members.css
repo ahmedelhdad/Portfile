@@ -3,6 +3,7 @@
   display: flex;
   flex-direction: column;
   gap: 40px;
+  overflow: hidden;
 }
 
 .members-container h1 
@@ -56,4 +57,88 @@
 .members-container .member .image:hover .overlay
 {
   display: block;
+}
+.members-container .one 
+{
+  animation: left 1s forwards linear;
+  transition: 0.5s;
+  opacity: 0;
+}
+.members-container .two 
+{
+  animation: right 1s 1s forwards linear;
+  transition: 0.5s;
+  opacity: 0;
+}
+.members-container .three 
+{
+  animation: left 1s 2s forwards linear;
+  transition: 0.5s;
+  opacity: 0;
+}
+.members-container .four 
+{
+  animation: right 1s 3s forwards linear;
+  transition: 0.5s;
+  opacity: 0;
+}
+.members-container .five 
+{
+  animation: left 1s 4s forwards linear;
+  transition: 0.5s;
+  opacity: 0;
+}
+.members-container .six 
+{
+  animation: right 1s 5s forwards linear;
+  transition: 0.5s;
+  opacity: 0;
+}
+.members-container .seven 
+{
+  animation: left 1s 6s forwards linear;
+  transition: 0.5s;
+  opacity: 0;
+}
+.members-container .eight 
+{
+  animation: right 1s 7s forwards linear;
+  transition: 0.5s;
+  opacity: 0;
+}
+.members-container .nine 
+{
+  animation: left 1s 8s forwards linear;
+  transition: 0.5s;
+  opacity: 0;
+}
+.members-container .ten 
+{
+  animation: right 1s 9s forwards linear;
+  transition: 0.5s;
+  opacity: 0;
+}
+@keyframes left 
+{
+  0%
+  {
+    transform: translateX(-100%);
+  }
+  100% 
+  {
+    transform: translateX(0%);
+    opacity: 1;
+  }
+}
+@keyframes right 
+{
+  0%
+  {
+    transform: translateX(100%);
+  }
+  100% 
+  {
+    transform: translateX(0%);
+    opacity: 1;
+  }
 }

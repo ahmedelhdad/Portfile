@@ -8,9 +8,11 @@ import imgSix from '../props/Specail.PNG'
 import imgSeven from '../props/tech.PNG'
 import imgEight from '../props/react2.PNG'
 import imgNine from '../props/api.PNG'
+import imgTen from '../props/Restaurant.PNG'
 
 
 const Members = () => {
+
 
 
   return (
@@ -20,7 +22,7 @@ const Members = () => {
 
       <div className="member one">
 
-        <div className="member-img image ">
+        <div className="member-img image">
         <img src={imgOne} alt=''/>
         <div className="overlay">
         <a href="https://ahmedelhdad.github.io/TAlmas/" className="contact-member">
@@ -102,7 +104,7 @@ const Members = () => {
          </div>
       </div>
 
-      <div className="member seven">
+      <div className="member eight">
         <div className="member-img image ">
         <img src={imgEight} alt=''/>
         <div className="overlay">
@@ -112,7 +114,7 @@ const Members = () => {
         </div>
          </div>
       </div>
-      <div className="member seven">
+      <div className="member nine">
         <div className="member-img image ">
         <img src={imgNine} alt=''/>
         <div className="overlay">
@@ -122,7 +124,16 @@ const Members = () => {
         </div>
          </div>
       </div>
-
+      <div className="member ten">
+        <div className="member-img image ">
+        <img src={imgTen} alt=''/>
+        <div className="overlay">
+        <a href="https://ahmedelhdad.github.io/Restaurant/" className="contact-member">
+           View
+          </a>
+        </div>
+         </div>
+      </div>
 
 
     </div>
